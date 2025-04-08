@@ -4,7 +4,7 @@ setup(
     name="sarmentocr",
     version="0.1.0",
     description="OCR especializado para exames oftalmológicos de córnea (independente do EasyOCR)",
-    author="Vitor Generoso",
+    author="Nicolly Sarmento Jacomelli",
     packages=find_packages(),
     install_requires=[
         "opencv-python",
