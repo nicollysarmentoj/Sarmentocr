@@ -1,0 +1,1 @@
+from .core.ocr import extract_ocr_data

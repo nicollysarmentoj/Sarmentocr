@@ -1,5 +1,6 @@
-# Sarmentocr
-Biblioteca em OCR para extrair dados provenientes de exames oftalmológicos (Tomógrafos e Pentacam).
+# SarmentOCR
+
+OCR de alta precisão para exames médicos oftalmológicos (como Pentacam), com pré-processamento customizado e detecção robusta sem uso do EasyOCR.
 
 ## Instalação
 
